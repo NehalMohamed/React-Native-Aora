@@ -8,7 +8,6 @@ import { CustomButton } from "../components";
 const _layout = () => {
   return (
     <SafeAreaView className="bg-primary h-full">
-      {/* <Loader isLoading={loading} /> */}
 
       <ScrollView
         contentContainerStyle={{
